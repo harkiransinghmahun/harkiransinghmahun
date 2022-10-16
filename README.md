@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harkiran 
-- 👀 I’m interested in creating desktop applications for my orgainisation to better our workflow, develop websites for small businesses, automate repetitive tasks with Python and much more.  
-- 🌱 I’m a keen learner and at any point of time I am learning something new. I follow courses on Udemy and YouTube to hone my skills and become a better version of myself. I have recently learnt Node.js and React.js
-- 💞️ I’m looking to collaborate on web development tasks and desktop application interface using PyQt5
+- 👀 I'm a computer science masters student at the University of York.
+- ✨ I'm a polyglot with intermediate to advanced level skills in Java, Python and JavaScript. 
+- 🌱 I'm a keen learner and I am always learning somehting new. I am presently learning ML and Statistics as I want to develop a geotechnical tool for my organisation using Bayesian Stats to help the team improve thier site investigation workflow and cut costs. Yes, I am a pracitising geotechnical engineer. 
 - 📫 Best way to reach me is via email: harkiransinghmahun@gmail.com
 
 <!---
