@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Harkiran 
-- 👀 I'm a computer science masters student at the University of York.
-- ✨ I'm a polyglot with intermediate to advanced level skills in Java, Python and JavaScript. 
-- 🌱 I'm a keen learner and I am always learning somehting new. I am presently learning ML and Statistics as I want to develop a geotechnical tool for my organisation using Bayesian Stats to help the team improve thier site investigation workflow and cut costs. Yes, I am a pracitising geotechnical engineer. 
-- 💻 I aspire to become a software developer. 
-- 📫 Best way to reach me is via email: harkiransinghmahun@gmail.com
+	•	👋 Hi, I’m Harkiran.
+	•	💼 I’m a Software Developer working as the Software Developer at Jefferies within Fixed Income. I have a strong foundation in Java and backend engineering.
+	•	🎓 I hold a Master’s degree in Computer Science from the University of York.
+	•	💬 I’m a polyglot developer with experience in Java, Python, JavaScript, and a growing interest in Rust and ML.
+	•	🌱 I’m always learning — whether it’s financial systems, machine learning, or cloud computing (AWS Certified Cloud Practitioner).
+	•	✨ Outside of work, I enjoy photography, cooking, travelling, and staying active through tennis, cycling, and gyming.
+	•	📫 Reach me at: harkiransinghmahun@gmail.com
 
 <!---
 harkiransinghmahun/harkiransinghmahun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
