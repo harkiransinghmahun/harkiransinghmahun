@@ -1,5 +1,6 @@
 	•	👋 Hi, I’m Harkiran.
-	•	💼 I’m a Software Developer working as the Software Developer at Jefferies within Fixed Income. I have a strong foundation in Java and backend engineering.
+	•	💼 I’m a Software Developer working as the Software Developer at Jefferies within Fixed Income. 
+                   I have a strong foundation in Java and backend engineering.
 	•	🎓 I hold a Master’s degree in Computer Science from the University of York.
 	•	💬 I’m a polyglot developer with experience in Java, Python, JavaScript, and a growing interest in Rust and ML.
 	•	🌱 I’m always learning — whether it’s financial systems, machine learning, or cloud computing (AWS Certified Cloud Practitioner).
